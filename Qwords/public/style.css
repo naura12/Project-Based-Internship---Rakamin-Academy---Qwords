@@ -1,0 +1,79 @@
+body{
+    background-image: url(asset/Group\ 49\ \(2\).png);
+    background-size: cover;
+}
+
+.navbar-brand{
+    margin-left: 20px;
+}
+
+.dropdown{
+    font-weight: bold;
+}
+
+.judul-atas{
+    font-weight: bold;
+    font-size: 60px;
+    margin-left: 120px;
+    margin-top: 145px;
+}
+
+.judul-tengah{
+    font-weight: bold;
+    font-size: 45px;
+    margin-left: 120px;
+}
+
+.judul-tengah-1{
+    font-weight: bold;
+    font-size: 45px;
+    color: #ff6d0b;
+
+}
+
+.judul-bawah{
+    font-weight: bold;
+    font-size: 45px;
+    color: #ff6d0b;
+    margin-left: 120px;
+}
+
+.btn-outline{
+    border-radius: 20px;
+    border-color: #ff6d0b;
+    width: 70px;
+    height: fit-content;
+    color: #ff6d0b;
+    background-color: transparent;
+    margin-right: 25px;
+}
+
+.paragraf{
+    text-align: justify;
+    margin-right: 150px;
+    margin-top: 150px; 
+    margin-left: 150px;  
+}
+
+.hastag{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ff6d0b;
+    margin-left: 150px;
+}
+
+.button1{
+    background-color: #ff6d0b;
+    border-radius: 20px;
+    width: 200px;
+    height: fit-content;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 215px;
+    margin-top: 50px;
+}
+
+.rectengle{
+    width: fit-content;
+    height: 574px;
+}
